@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Playpen+Sans&display=swap');
+
+
+.services{
+    color: brown;
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.service{
+    float: left;
+    width: 20%;
+    background-color: aliceblue;
+}
+
+.clearfix{
+    clear: left;
+}
